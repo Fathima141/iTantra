@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307132931234",
+    "project_id": "itantra-b1462",
+    "storage_bucket": "itantra-b1462.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307132931234:android:dabca8f8a6e33cbf5d8bfb",
+        "android_client_info": {
+          "package_name": "com.itantra.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZ2emAc-ko4uZvuJjn1UHKCCGTds3tVc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
